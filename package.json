@@ -1,5 +1,4 @@
 {
-  "type": "module",
   "name": "betway-server",
   "version": "1.0.0",
   "description": "This is the server side of the Betway technical assessment developed in Nodejs and Express",
